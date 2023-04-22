@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(214, 189, 181);
+}
+
+#clickable{
+    position: absolute;
+    height: 50px;
+    width: 10%;
+    background-color: black;
+    color: rgb(255, 115, 0);
+    font-size: 20px;
+    top:600px;
+    left: 650px;
+    
+}
+
+#pageHeader{
+    color: black;
+    width:50%;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 125px;
+    left:350px;
+}
+
+#copyright{
+    position: absolute;
+    bottom: 25px;
+    right: 50px;
+}
